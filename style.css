@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(209, 201, 201);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin: 0; 
+    justify-content: center;
+    align-items: center;
+    display: inline;
+    min-height: 100vh;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: honeydew;
+    column-span: 250%;
+    margin: 0;
+    padding: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav a{
+    background-color: chartreuse;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+    margin:0%
+}
+nav .a:hover{
+    font-style: bold;
+    align-items: center;
+    background-color: blue;
+    color: aquamarine;
+    cursor: pointer;
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ho{
+    background-color: lightcoral;
+    justify-content: center;
+    align-items: center;
+}
